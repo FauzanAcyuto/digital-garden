@@ -16,7 +16,7 @@ But the freedom of the zettelkasten method comes at a certain cost. Wherein I te
 
 This is how a digital garden can complete the Zettelkasten Method. Where Luhman Zettelkasten used his notes to facilitate his research, I use my notes to facilitate this garden.
 
-This system helps me:
+**This system helps me:**
 1. Be more intentional with my writing
 2. Get incentivised to review and refine my notes
-3. 
+3. Get my refined thoughts out there in the world, for those how care.
