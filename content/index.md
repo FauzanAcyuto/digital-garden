@@ -38,9 +38,9 @@ For example
 ```
 AtomicNotes
 |- AWS
-|- RDS
+|- Lambda
 |- EC2
 
 Blogs
-|- 
+|- "How to develop a simple data pipeline using AWS RDS and Lambda"
 ```
