@@ -1,13 +1,15 @@
 ---
 tags:
-- MOC
-publish: 'true'
+  - MOC
+publish: "true"
 category: AtomicNotes
-date: '2026-01-14'
+date: "2026-01-14"
 ---
 
 Parent: [[Solutions Architecture]]
-***
+
+---
+
 [What is System Design? A Comprehensive Guide to System Architecture and Design Principles - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/what-is-system-design-learn-system-design/)
 
 Systems Design is the act of creating a blueprint for a system that satisfies all requirements, which includes (but not limited to):
@@ -16,11 +18,12 @@ Systems Design is the act of creating a blueprint for a system that satisfies al
 2. [[Durability]]: Reliability, Assurance
 3. [[Scalability]]: Load tolerance
 4. [[Availability]]: Fault tolerance, "Reliability", "Redundancy"
-5. Maintainability: Clean, readable code 
+5. Maintainability: Clean, readable code
 
-These requirements are measured through SLA's (service level agreements). 
+These requirements are measured through SLA's (service level agreements).
 
 **Systems design SLA's:**
+
 1. [[Availability]] : System uptime
 2. [[Durability]] : Consistency of data across time
 3. [[System Resiliency]] : Ability to recover from outages or issues
@@ -31,7 +34,7 @@ The first component to discuss in system design is [[Scalability]]. It is genera
 
 Then, after you've split your computing power into multiple machines, how would you get them to work as a unit? That is where [[Load Balancers]] come in!
 
-Load balancers allow you to, well, **balance load** between all of the machines in the system. 
+Load balancers allow you to, well, **balance load** between all of the machines in the system.
 
 Another thing you need to consider when designing systems is [[Throughput vs Latency]] (System Speed). Do you optimize for speedy data transfers? or A LOT of data going through at once?
 
@@ -43,19 +46,16 @@ It is important to understand that much of system design involves [[Systems Desi
 
 The P in CAP stands for partition tolerance, which dictates a systems ability to maintain operation when one of its network partition is compromized. This is where understanding [[Networking]] becomes very important.
 
+# Related
 
-# Related:
 [[Scalability vs Performance]]
 [[Systems Design High Level Tradeoffs]]
 [[Logging and Monitoring]]
 [[CAP Theorem]]
 
-# Resources:
+# Resources
+
 [[System Design Concepts Course and Interview Prep]]
 [[The Systems Design Primer GitHub]]
 ﻿[System Design for Data Engineers.](Weblinks/System%20Design%20for%20Data%20Engineers.md)
 
-### Links:
-```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
-```
