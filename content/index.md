@@ -8,9 +8,7 @@ Wellcome, wellcome, wellcome. This is my digital garden, a place when I store me
 
 
 > [!info] Dead Links
-> You will find links that go nowhere, half written notes, as well as notes that tell me that they need to be written. This is no
-
-
+> You will find links that go nowhere, half written notes, as well as notes that tell me that they need to be written. Thats just how it is because the real prize is the links we make along the way.
 
 ## Why?
 I started my zettelkasten journey in late 2025, and before long I had a respectable body of knowledge which the best feature of, is how it frees up a substantial portion of my mind to think.
