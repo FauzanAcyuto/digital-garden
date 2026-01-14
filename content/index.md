@@ -23,4 +23,4 @@ This is how a digital garden can complete the Zettelkasten Method. Where Luhman 
 
 Integrating this digital garden with my existing obsidian slipbox is nothing original, but it is something I am really happy with.
 
-Read more here [[Obsidian slipbox for 
+Read more here [[Obsidian slipbox into a digital garden]]
