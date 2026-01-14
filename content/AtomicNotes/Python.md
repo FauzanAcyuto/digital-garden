@@ -1,9 +1,4 @@
 ---
-type: Encounter
-title: CS50 Python
-createdAt: 2025-07-28 07:51:40.373000+00:00
-creationDate: 2025-07-28 14:51
-modificationDate: 2025-07-28 17:11
 tags:
 - MoC
 publish: true
