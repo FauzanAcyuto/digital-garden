@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "fauzan-acyuto.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "snippets"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FFFCF0",        // paper - page background
+          lightgray: "#E6E4D9",    // base-100 - borders
+          gray: "#878580",         // base-500 - graph links, heavier borders
+          darkgray: "#100F0F",     // black - body text
+          dark: "#100F0F",         // black - header text, icons
+          secondary: "#205EA6",    // blue-600 - links, current graph node
+          tertiary: "#4385BE",     // blue-400 - hover states, visited graph nodes
+          highlight: "rgba(32, 94, 166, 0.15)", // blue-600 with transparency - highlighted text, search match
+          textHighlight: "#F6E2A0", // yellow-100 - markdown highlighted text
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#FFFCF0",
+          lightgray: "#E6E4D9",
+          gray: "#878580",
+          darkgray: "#100F0F",
+          dark: "#100F0F",
+          secondary: "#205EA6",
+          tertiary: "#4385BE",
+          highlight: "rgba(32, 94, 166, 0.15)",
+          textHighlight: "#F6E2A0",
         },
       },
     },
@@ -62,7 +62,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
-          dark: "github-dark",
+          dark: "github-light",
         },
         keepBackground: false,
       }),
@@ -86,10 +86,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }
