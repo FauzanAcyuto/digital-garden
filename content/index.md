@@ -44,4 +44,5 @@ AtomicNotes
 Blogs
 |- "How to develop a simple data pipeline using AWS RDS and Lambda"
 ```
-AtomicNotes is where concepts float around, the Blog is where those concepts get loomed together into an essay.
+AtomicNotes is where concepts float around, the Blog is where those concepts get weaved together into an essay.
+
