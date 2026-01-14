@@ -7,6 +7,7 @@ modificationDate: 2025-07-28 17:11
 tags:
 - MoC
 publish: true
+category: AtomicNotes
 date: '2026-01-14'
 ---
 
