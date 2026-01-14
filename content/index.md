@@ -20,3 +20,7 @@ This is how a digital garden can complete the Zettelkasten Method. Where Luhman 
 1. Be more intentional with my writing
 2. Get incentivised to review and refine my notes
 3. Get my refined thoughts out there in the world, for those how care.
+
+Integrating this digital garden with my existing obsidian slipbox is nothing original, but it is something I am really happy with.
+
+Read more here [[Obsidian slipbox for 
