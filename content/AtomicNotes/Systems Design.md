@@ -1,15 +1,15 @@
 ---
 tags:
-  - MOC
-publish: "true"
+- MOC
+publish: true
 category: AtomicNotes
-date: "2026-01-14"
+aliases: []
+id: Systems Design
+date: '2026-01-14'
 ---
 
 Parent: [[Solutions Architecture]]
-
----
-
+***
 [What is System Design? A Comprehensive Guide to System Architecture and Design Principles - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/what-is-system-design-learn-system-design/)
 
 Systems Design is the act of creating a blueprint for a system that satisfies all requirements, which includes (but not limited to):
@@ -55,7 +55,8 @@ The P in CAP stands for partition tolerance, which dictates a systems ability to
 
 # Resources
 
-[[System Design Concepts Course and Interview Prep]]
-[[The Systems Design Primer GitHub]]
+[[System Design Concepts Course and Interview Prep]] - need links
+[[The Systems Design Primer GitHub]] - need links
 ﻿[System Design for Data Engineers.](Weblinks/System%20Design%20for%20Data%20Engineers.md)
+
 
