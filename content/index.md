@@ -26,4 +26,4 @@ Integrating this digital garden with my existing obsidian slipbox is nothing ori
 Read more here [[Obsidian slipbox into a digital garden]]
 
 ## How content is organized around here
-Adhering to the Zettelkasten method, we don't use folders here. Instead everything is navigated through internal links, maps of content, and 
+Adhering to the Zettelkasten method, we don't use folders here. Instead, everything is navigated through internal links, maps of content, and the graph view (if that's your thing). 
