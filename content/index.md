@@ -32,5 +32,5 @@ But there are two big categories:
 1. Blogs
 2. AtomicNotes
 
-While AtomicNotes is my 
+While AtomicNotes is my slipbox, Blogs are for long-form, fully refined essays that I deem suitable for a more structured reading format.
 
