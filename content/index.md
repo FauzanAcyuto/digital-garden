@@ -12,4 +12,4 @@ I started my zettelkasten journey in late 2025, and before long I had a respecta
 >The mind is for having ideas, not holding them
 > -David Allen
 
-But the freedom of the zettelkasten method comes at a certain cost. In which I tend to compile knowledge quickly, and not have the time (or motivation) to refine them in order to get the best value out of this system.  
+But the freedom of the zettelkasten method comes at a certain cost. Wherein I tend to compile knowledge quickly, without having the time (or motivation) to refine them. This diminishes the value of the Zettelkasten method, where the goal of 
