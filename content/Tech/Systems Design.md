@@ -1,9 +1,4 @@
 ---
-type: AtomicNote
-title: Systems Design
-createdAt: 2025-07-19 16:16:58.669000+00:00
-creationDate: 2025-07-19 23:16
-modificationDate: 2025-07-28 12:41
 tags:
 - MOC
 publish: 'true'
