@@ -34,7 +34,7 @@ But there are two big categories:
 
 While AtomicNotes is my slipbox, Blogs are for long-form, fully refined essays that I deem suitable for a more structured reading format.
 
-For example
+For example:
 ```
 AtomicNotes
 |- AWS
@@ -44,3 +44,4 @@ AtomicNotes
 Blogs
 |- "How to develop a simple data pipeline using AWS RDS and Lambda"
 ```
+AtomicNotes is where concepts float around, the Blog is where those concepts get loomed together into an essay.
