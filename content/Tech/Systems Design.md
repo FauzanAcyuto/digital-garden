@@ -8,12 +8,12 @@ tags:
 - MOC
 publish: 'true'
 category: Tech
-date: '2026-01-13'
+date: '2026-01-14'
 ---
 
 Parent: [[Solutions Architecture]]
 ***
-[What is System Design? A Comprehensive Guide to System Architecture and Design Principles - GeeksforGeeks](Weblinks/What%20is%20System%20Design%20A%20Comprehensive%20Guide%20to%20System%20Architecture%20and%20Design%20P.md)
+[What is System Design? A Comprehensive Guide to System Architecture and Design Principles - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/what-is-system-design-learn-system-design/)
 
 Systems Design is the act of creating a blueprint for a system that satisfies all requirements, which includes (but not limited to):
 

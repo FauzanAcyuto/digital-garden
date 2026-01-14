@@ -1,5 +1,8 @@
 ---
-title: Welcome
+publish: true
+date: '2026-01-14'
 ---
 
-Welcome to my digital garden.
+# Fauzan Acyuto's Digital Garden
+Wellcome to my digital garden
+
