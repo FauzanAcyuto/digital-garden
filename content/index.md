@@ -14,4 +14,9 @@ I started my zettelkasten journey in late 2025, and before long I had a respecta
 
 But the freedom of the zettelkasten method comes at a certain cost. Wherein I tend to compile knowledge quickly, without having the time (or motivation) to refine them. This diminishes the value of the Zettelkasten method, where the goal of the system is to make you interact with your notes as possible, and that your notes should become a building block for a thesis or an essay that is their culmination.
 
-This is how a digital garden can complete the Zettelkasten Method. Where Luhman Zettelkasten used his notes to facilitate his research, I use my notes to facilitate this 
+This is how a digital garden can complete the Zettelkasten Method. Where Luhman Zettelkasten used his notes to facilitate his research, I use my notes to facilitate this garden.
+
+This system helps me:
+1. Be more intentional with my writing
+2. Get incentivised to review and refine my notes
+3. 
