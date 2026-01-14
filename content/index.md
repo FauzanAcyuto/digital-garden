@@ -34,3 +34,13 @@ But there are two big categories:
 
 While AtomicNotes is my slipbox, Blogs are for long-form, fully refined essays that I deem suitable for a more structured reading format.
 
+For example
+```
+AtomicNotes
+|- AWS
+|- RDS
+|- EC2
+
+Blogs
+|- 
+```
