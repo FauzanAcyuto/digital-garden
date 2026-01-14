@@ -25,8 +25,4 @@ This note is an MoC, as such it will contain an enormous amount of backlinks, as
 
 ### Resources:
 
-### Links:
-```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
-```
 
