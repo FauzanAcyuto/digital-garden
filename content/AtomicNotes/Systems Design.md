@@ -30,7 +30,7 @@ These requirements are measured through SLA's (service level agreements).
 4. [[Reliability]] : Guarantee of function quality
 5. [[Availability Patterns]] : Fail-over (level up from availability)
 
-The first component to discuss in system design is [[Scalability]]. It is generally accepted that you should design your systems to be [[Horizontal Scalability]], as [[Vertical Scalability]] is limited to current technology and it mostly pretains to singular hardware power.
+The first component to discuss in system design is [[Scalability]]. It is generally accepted that you should design your systems to be [[Horizontal Scalability|Horizontaly scalable]], as [[Vertical Scalability]] is limited to current technology and it mostly pretains to singular hardware power.
 
 Then, after you've split your computing power into multiple machines, how would you get them to work as a unit? That is where [[Load Balancers]] come in!
 
