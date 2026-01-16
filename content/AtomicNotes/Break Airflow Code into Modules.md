@@ -7,7 +7,7 @@ category: AtomicNotes
 date: '2026-01-16'
 ---
 
-Parent: [[Production grade Airflow Scripting]]
+Parent: [[Production grade airflow scripting]]
 ***
 ## Why?
 The reason you do this is to get a clear distinction that Airflow is just an **orchestrator and should be separated from the business logic.**
