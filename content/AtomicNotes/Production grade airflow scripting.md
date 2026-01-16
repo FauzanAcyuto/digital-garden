@@ -19,7 +19,7 @@ In this note we will breakdown the best practices to writing production ready ai
 3. Explicit type hints and outputs `def function(variable: str)->list[str]:`
 4. Split functions by 'units of work' not logical steps [[DuckDB Relations in Python Functions]]
 5. Safe SQL parameters using parameter binding [[DuckDB parameter binding]] 
-6. Implement the principles of [[Idempotency]]
+6. Implement the principles of [[Idempotency]] to prevent duplicates on retries
 # Production code example
 ```python
 
