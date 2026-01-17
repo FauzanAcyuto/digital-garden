@@ -3,7 +3,7 @@ tags:
 - MoC
 publish: true
 category: AtomicNotes
-date: '2026-01-14'
+date: '2026-01-17'
 ---
 
 parent: [[Programming]]
@@ -14,10 +14,7 @@ This is the reason I believe python should be the first language someone non-tec
 
 This note is an MoC, as such it will contain an enormous amount of backlinks, as it should. 
 
-
 ### Related: 
-
-
 
 ### Resources:
 
