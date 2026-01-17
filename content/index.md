@@ -32,7 +32,7 @@ Read more here [[Obsidian slipbox into a digital garden]]
 ## How content is organized around here
 Adhering to the Zettelkasten method, we don't use folders here. Instead, everything is navigated through the search function, internal links, maps of content, and the graph view (if that's your thing). 
 
-But there are three main categories:
+There are three main categories:
 1. Maps of Contents
 2. Atomic Notes
 3. Blog Posts
@@ -43,10 +43,14 @@ While AtomicNotes is my slipbox, Blogs are for long-form, fully refined essays t
 
 For example:
 ```
+Maps of Content:
+|- AWS
+|- Python
+
 AtomicNotes
-|- RDS
-|- Lambda
-|- EC2
+|- RDS -- child of AWS
+|- Lambda -- child of AWS
+|- EC2 -- child of AWS
 
 Blogs
 |- "How to develop a simple data pipeline using AWS RDS and Lambda"
