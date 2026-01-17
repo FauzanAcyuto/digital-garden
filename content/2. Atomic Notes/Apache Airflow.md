@@ -4,7 +4,7 @@ tags:
 - Seedling
 creationDate: 2025-11-04
 publish: true
-category: AtomicNotes
+category: 2. Atomic Notes
 date: '2026-01-17'
 ---
 

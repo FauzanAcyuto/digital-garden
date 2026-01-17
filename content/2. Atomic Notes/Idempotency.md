@@ -3,7 +3,7 @@ tags:
 - Fleeting
 creationDate: 2026-01-16
 publish: 'true'
-category: AtomicNotes
+category: 2. Atomic Notes
 date: '2026-01-17'
 ---
 

@@ -4,7 +4,7 @@ tags:
 creationDate: 2026-01-04
 is_article_quality: false
 publish: true
-category: AtomicNotes
+category: 2. Atomic Notes
 date: '2026-01-17'
 ---
 

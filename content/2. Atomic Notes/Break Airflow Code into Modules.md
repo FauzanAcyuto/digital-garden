@@ -3,8 +3,8 @@ tags:
 - Fleeting
 creationDate: 2026-01-14
 publish: 'true'
-category: AtomicNotes
-date: '2026-01-16'
+category: 2. Atomic Notes
+date: '2026-01-17'
 ---
 
 Parent: [[Production grade airflow scripting]]
