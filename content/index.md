@@ -1,6 +1,6 @@
 ---
 publish: true
-date: '2026-01-14'
+date: '2026-01-17'
 ---
 
 # The mind of me
@@ -32,9 +32,10 @@ Read more here [[Obsidian slipbox into a digital garden]]
 ## How content is organized around here
 Adhering to the Zettelkasten method, we don't use folders here. Instead, everything is navigated through the search function, internal links, maps of content, and the graph view (if that's your thing). 
 
-But there are two big categories:
-1. Blogs
-2. AtomicNotes
+But there are three main categories:
+1. Maps of Contents
+2. Atomic Notes
+3. Blog Posts
 
 While AtomicNotes is my slipbox, Blogs are for long-form, fully refined essays that I deem suitable for a more structured reading format.
 
