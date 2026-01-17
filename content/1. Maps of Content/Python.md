@@ -2,7 +2,7 @@
 tags:
 - MoC
 publish: true
-category: AtomicNotes
+category: 1. Maps of Content
 date: '2026-01-17'
 ---
 

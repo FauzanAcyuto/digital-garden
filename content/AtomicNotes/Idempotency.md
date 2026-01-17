@@ -14,8 +14,7 @@ Imagine a situation where your script fails mid run, well you don't have to imag
 Will it:
 1. Skip the process that it should be running, resulting in missing data?
 2. Reprocess what has already been processed, resulting in duplicates?
-3. If multiple script run
-
+3. If multiple scripts run at the same time, will they process the same data twice?
 
 This is the core of idempotency for data engineering. Can your script give the same output reliably when retried multiple times?
 

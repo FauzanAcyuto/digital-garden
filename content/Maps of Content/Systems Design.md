@@ -2,10 +2,10 @@
 tags:
 - MOC
 publish: true
-category: AtomicNotes
+category: Maps of Content
 aliases: []
 id: Systems Design
-date: '2026-01-14'
+date: '2026-01-17'
 ---
 
 Parent: [[Solutions Architecture]]
