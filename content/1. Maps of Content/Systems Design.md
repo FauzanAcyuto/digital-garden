@@ -2,14 +2,12 @@
 tags:
 - MOC
 publish: true
-category: Maps of Content
+category: 1. Maps of Content
 aliases: []
 id: Systems Design
 date: '2026-01-17'
 ---
 
-Parent: [[Solutions Architecture]]
-***
 [What is System Design? A Comprehensive Guide to System Architecture and Design Principles - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/what-is-system-design-learn-system-design/)
 
 Systems Design is the act of creating a blueprint for a system that satisfies all requirements, which includes (but not limited to):

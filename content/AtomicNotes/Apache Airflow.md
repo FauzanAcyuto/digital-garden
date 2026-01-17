@@ -1,7 +1,7 @@
 ---
 id: Apache Airflow
 tags:
-- Fleeting
+- Seedling
 creationDate: 2025-11-04
 publish: true
 category: AtomicNotes
