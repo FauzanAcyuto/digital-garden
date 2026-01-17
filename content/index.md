@@ -37,12 +37,14 @@ But there are three main categories:
 2. Atomic Notes
 3. Blog Posts
 
-While AtomicNotes is my slipbox, Blogs are for long-form, fully refined essays that I deem suitable for a more structured reading format.
+You can start exploring things through Maps of Contents, these notes are the "big" Atomic Notes, they serve as parents of the Atomic notes and help tie them together.
+
+While AtomicNotes is my slipbox, Blogs are for long-form, fully refined essays that I deem suitable for a more structured reading format. 
 
 For example:
 ```
 AtomicNotes
-|- AWS
+|- RDS
 |- Lambda
 |- EC2
 
