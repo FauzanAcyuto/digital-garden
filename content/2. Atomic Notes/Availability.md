@@ -7,8 +7,8 @@ modificationDate: 2025-07-26 09:54
 tags:
 - Seedling
 publish: true
-category: AtomicNotes
-date: '2026-01-14'
+category: 2. Atomic Notes
+date: '2026-01-17'
 ---
 
 parent: [[Systems Design]]
