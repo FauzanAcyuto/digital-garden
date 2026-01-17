@@ -26,8 +26,8 @@ In order to do this you need to define a few things using python:
 3. Operators (now kinda abstracted away with Taskflow)
 
 Airflow is useful in the following use cases:
-1. Data powered applications - Garmin connect
-2. Data powering critical operational processes (also fun) - MH02 alerts
+1. Data powered applications - eg. Garmin connect
+2. Data powering critical operational processes (also fun) - eg. MH02 alerts
 3. Data for reporting and analytics 
 4. Data for ML Models and predicions
 
