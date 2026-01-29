@@ -24,6 +24,8 @@ GNOME:
 - [ ] Setup workspaces with ctrl+number and ctrl+shift+number
 - [ ] Rounded window corners
 - [ ] User themes plugin -> mac tahoe theme by vinceliuice
+- [ ] Connect to android from linux [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
+- [ ] 
 
 
 No hyprland needed, no minimal configs but just enough visual customizability.
