@@ -23,7 +23,7 @@ GNOME:
 - [ ] Pop Launcher
 - [ ] Setup workspaces with ctrl+number and ctrl+shift+number
 - [ ] Rounded window corners
-- [ ] User themes plugin -> mac tahoe theme
+- [ ] User themes plugin -> mac tahoe theme by vinceliuice
 
 
 No hyprland needed, no minimal configs but just enough visual customizability.
