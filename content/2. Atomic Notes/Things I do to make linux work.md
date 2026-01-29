@@ -25,7 +25,8 @@ GNOME:
 - [ ] Rounded window corners
 - [ ] User themes plugin -> mac tahoe theme by vinceliuice
 - [ ] Connect to android from linux plugin [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
-- [ ] Gnome run or raise plugin
+- [ ] Gnome run or raise plugin [GitHub - CZ-NIC/run-or-raise: GNOME3 extension](https://github.com/CZ-NIC/run-or-raise)
+
 
 
 No hyprland needed, no minimal configs but just enough visual customizability.
