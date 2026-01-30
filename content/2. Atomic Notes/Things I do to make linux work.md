@@ -4,7 +4,7 @@ tags:
 creationDate: '2026-01-27'
 publish: 'true'
 category: 2. Atomic Notes
-date: '2026-01-29'
+date: '2026-01-30'
 ---
 
 Parent: [[My Personal Workflow]]
@@ -26,7 +26,7 @@ GNOME:
 - [ ] User themes plugin -> mac tahoe theme by vinceliuice
 - [ ] Connect to android from linux plugin [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
 - [ ] Gnome run or raise plugin [GitHub - CZ-NIC/run-or-raise: GNOME3 extension](https://github.com/CZ-NIC/run-or-raise)
-
+º 
 
 
 No hyprland needed, no minimal configs but just enough visual customizability.
