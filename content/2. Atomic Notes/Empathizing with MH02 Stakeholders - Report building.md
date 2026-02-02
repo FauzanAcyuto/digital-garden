@@ -36,7 +36,8 @@ Safety Metrics:
 
 Operations Metrics:
 1. Number of fatigue violations per operator per shift (fatigued operators need to be stopped and given rest, decreasing productivity) -  Count number of fatigued operators per shift  - Visual: Bar chart (x: shift date & shift, y: count of fatigue alerts )
-2. Speed compliance, how many instances off overspeeding and underspeedin
+2. Speed compliance, how many instances off overspeeding violations - Count of overspeeding violations per shift - Visual:
+3. Speed compliance 2, percentage of underspeeding for each unit each shift
 
 ### Related:
 
