@@ -17,6 +17,7 @@ The challenge is how can you deeply understand your stakeholders world: Their pa
 
 This comes through actually standing on their shoes, or at least living in their world just for a period of time. Observe, observe, observe. Spend 30 minutes shadowing them work, look at the reports that they are currently seeing, actually ask them "what do you check first thing monday morning?". Ask about the person, not the report.
 
+Read through their domain of work, if its a finance dashboard study the metrics, trends, etc. Revisit after launch and see their pains and misgivings on the report.
 
 > [!tip] Your job
 > is to understand the person, not the tool.
