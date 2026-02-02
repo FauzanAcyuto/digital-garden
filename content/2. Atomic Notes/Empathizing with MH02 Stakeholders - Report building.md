@@ -29,7 +29,8 @@ The operation dept head questions:
 
 Safety Metrics:
 1. Number of true context violations that's properly followed up per week - Sum the number of true context alerts per day, with weekly filters - Tables: t_alerts
-2. Number of 
+2. Number of true context alerts per violation type - Sum the number of true context alerts per violation type - Tables: t_alert
+3. Number of 
 
 Operations Metrics:
 1. Number of safety violations per operator per shift - 
