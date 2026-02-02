@@ -35,7 +35,7 @@ Safety Metrics:
 5. Metrics per operator - all safety metrics per operator (Alerts per violation type, true context percentage, evidence delivery, follow up stats) filtered per operator - Drill through entry point from worst performing operators by alert count
 
 Operations Metrics:
-1. Number of safety violations per operator per shift - 
+1. Number of fatigue violations per operator per shift (fatigued operators need to be stopped and given rest, decreasing productivity) -  
 
 ### Related:
 
