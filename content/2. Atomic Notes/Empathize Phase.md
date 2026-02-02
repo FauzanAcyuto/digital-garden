@@ -36,7 +36,7 @@ Ask yourself, what is this person trying to achieve from this tool?
 You might just find that by making a report that is tailored to the users needs that it ends up being a much simpler job than you first expected.
 
 ### Related:
-
+[[Regaining Power BI Expertise]]
 
 ### Resources:
 
