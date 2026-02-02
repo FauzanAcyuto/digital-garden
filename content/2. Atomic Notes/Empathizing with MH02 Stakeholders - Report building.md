@@ -40,6 +40,7 @@ Operations Metrics:
 3. Speed compliance 2, percentage of underspeeding for each unit each shift - Table: t_telemetry - Moving period, idle period, and underspeed period metrics.
 4. Speed bottlenecs per area - t_telemetry - Visual: Map visual, speed per unit per ritation, will need to be pre aggregated per 10 meters or something through geohashing or rounding lat and lon.
 
+[[Claude discussion recap]]
 ### Related:
 [[How to begin designing a report]]
 
