@@ -15,7 +15,7 @@ The biggest trap when making anything (pipelines, reports, applications) is to j
 
 The challenge is how can you deeply understand your stakeholders world: Their pains, their needs, their wants, before you start developing a line of code.
 
-This comes through actually standing on their shoes, or at least living in their world just for a period of time. Observe, observe, observe.
+This comes through actually standing on their shoes, or at least living in their world just for a period of time. Observe, observe, observe. Spend 30 minutes shadowing them work, look at the reports that they are currently seeing, actually ask them "what do you check first thing monday morning?". Ask about the person, not the report.
 
 
 > [!tip] Your job
@@ -34,6 +34,7 @@ Ask yourself, what is this person trying to achieve from this tool?
 3. They want to justify headcount/budget - you need to show how much impact and how much resources are needed to keep this project going.
 
 You might just find that by making a report that is tailored to the users needs that it ends up being a much simpler job than you first expected.
+
 
 ### Related:
 [[Regaining Power BI Expertise]]
