@@ -31,7 +31,8 @@ Safety Metrics:
 1. Number of true context violations that's properly followed up per week - Count the number of true context alerts per day, with weekly filters - Tables: t_control - Visual: Card
 2. Number of true context alerts per violation type - Sum the number of true context alerts per violation type - Tables: t_control - Visual: Bar chart (x: violation type, y: COUNT true context)
 3. Number of alerts not followed up - Percentage of alerts that's followed up per day - Tables: t_control - Visual: Stacked Bar chart (x: date, y: percentage validated vs not)
-4. How many alerts have their evidence delivered (important for areas of poor coverage) - Tables: t_control - Visual: 
+4. How many alerts have their evidence delivered (important for areas of poor coverage) - Tables: t_control - Visual: Stacked Bar chart (x: date, y: percentage video downloaded)
+5. Metrics per operator - all safety metrics per operator (Alerts per violation type, true context percentage, evidence delivery, follow up stats) filtered per operator - Drill through maybe?
 
 Operations Metrics:
 1. Number of safety violations per operator per shift - 
