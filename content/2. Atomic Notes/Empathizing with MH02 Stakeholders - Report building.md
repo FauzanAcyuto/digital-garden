@@ -38,7 +38,7 @@ Operations Metrics:
 1. Number of fatigue violations per operator per shift (fatigued operators need to be stopped and given rest, decreasing productivity) -  Count number of fatigued operators per shift  - Visual: Bar chart (x: shift date & shift, y: count of fatigue alerts )
 2. Speed compliance, how many instances off overspeeding violations - Count of overspeeding violations per shift - Visual: Bar chart (x:shift date & shift, y:count of overspeed alerts)
 3. Speed compliance 2, percentage of underspeeding for each unit each shift - Table: t_telemetry - Preaggregated value per shift per unit percentage of time (seconds) when the unit is <15kph from the speed limit excuding stopping. Then percentage of 0 speed per ritation (round trip from loading to dumping) compared to moving speed.
-4. Speed bottlenecs
+4. Speed bottlenecs per area - t_telemetry -Visual: Map visual, speed per unit per ritation
 
 ### Related:
 
