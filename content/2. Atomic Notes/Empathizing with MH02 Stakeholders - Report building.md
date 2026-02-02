@@ -27,8 +27,11 @@ The operation dept head questions:
 3. Are my operational targets getting met? (Partially answerable from the data by speed compliance)
 4. Are the operators staying under the speed limit but not too far under? (Direclty answerable from the data) 
 
-Metrics:
-1. 
+Safety Metrics:
+1. Number of true context violations thats properly followed up
+
+Operations Metrics:
+1. Number of safety violations per operator per sh
 
 ### Related:
 
