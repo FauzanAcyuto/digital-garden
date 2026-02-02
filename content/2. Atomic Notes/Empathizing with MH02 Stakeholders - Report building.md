@@ -41,7 +41,7 @@ Operations Metrics:
 4. Speed bottlenecs per area - t_telemetry - Visual: Map visual, speed per unit per ritation, will need to be pre aggregated per 10 meters or something through geohashing or rounding lat and lon.
 
 ### Related:
-
+[[How to begin designing a report]]
 
 ### Resources:
 
