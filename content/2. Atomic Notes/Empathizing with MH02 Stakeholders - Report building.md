@@ -28,7 +28,8 @@ The operation dept head questions:
 4. Are the operators staying under the speed limit but not too far under? (Direclty answerable from the data) 
 
 Safety Metrics:
-1. Number of true context violations that's properly followed up per week - 
+1. Number of true context violations that's properly followed up per week - Sum the number of true context alerts per day, with weekly filters - Tables: t_alerts
+2. Number of 
 
 Operations Metrics:
 1. Number of safety violations per operator per shift - 
