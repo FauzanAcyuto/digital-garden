@@ -9,7 +9,7 @@ date: '2026-02-07'
 
 Parent: [[Personal Development MOC]]
 ***
-To be articulate is to be dangerous. In an age of unprecedented peace, power is gained more through discourse than might of arms. And in this battlefield, speech is a weapon like it was never before.
+To be articulate is to be dangerous. In an age of unprecedented peace, power is gained more through discourse than might of arms. And in this battlefield, speech is a weapon like never before.
 
 It pays to be articulate, as it proves your competence to the people around you. 
 
