@@ -9,9 +9,11 @@ date: '2026-02-07'
 
 Parent: [[Personal Development MOC]]
 ***
-To be articulate is to be dangerous. In an age of unprecedented peace, power is gained through discourse instead of the might of arms. And in this battlefield, speech is a weapon like it has never been before.
+To be articulate is to be dangerous. In an age of unprecedented peace, power is gained more through discourse than might of arms. And in this battlefield, speech is a weapon like it was never before.
 
-It pays to be articulate, as it proves your competence. To show yourself as someone who can think clearly, and communicate those thoughts to other people in a way that they --as people with differing perspectives than you-- can understand clearly, is like holding a well-honed blade.
+It pays to be articulate, as it proves your competence to the people around you. 
+
+To show yourself as someone who can think clearly, and communicate those thoughts to other people in a way that they --as people with differing perspectives than you-- can understand clearly, is as threatening as a well-honed blade.
 
 But let's get to the point, how do I become articulate?
 Jordan Peterson said that to be articulate, you must write. But to me writing can mean a great many things, writing notes, writing poetry, writing essays, or a plethora of other writing activities.
