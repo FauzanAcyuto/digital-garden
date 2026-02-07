@@ -40,7 +40,7 @@ This is where **poetry** comes in, especially Bukowski's style of poetry.
 
 In this medium what you're trying to do is to give the voices in your head... well, a voice. The goal of this poetry is to describe something complicated, simply. This lets you speak from the soul, where even the deepest feelings of loss can be described with "pain is the destination, and you are the steps that I take gladly".
 
-Once you're done with poetry, your mind is a bit quieter, and actual decent ideas begin popping into your head, now's the time to write an essay.
+Once you're done with poetry, your mind is a bit quieter, and finally some actually decent ideas can begin popping into your head. Now's the time to write an **essay**.
 
 > [!tip] The intention
 >To deliver your point, in your own voice, without conforming to any academical essay standards 
