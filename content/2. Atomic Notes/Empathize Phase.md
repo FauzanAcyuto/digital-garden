@@ -1,10 +1,10 @@
 ---
 tags:
-- Fleeting
+- Fern
 creationDate: 2026-02-02
 publish: 'True'
 category: 2. Atomic Notes
-date: '2026-02-02'
+date: '2026-02-07'
 ---
 
 Parent: [[Design Thinking]]
