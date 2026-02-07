@@ -30,9 +30,13 @@ Now I am a big advocate of the Zettelkasten and the Cornell Notetaking System. S
 Let me answer that question with another question, 
 > [!question] How does writing improve articulation?
 
-To NOT be articulate, is to have a mind that races, that steps on itself, so much that you can't think let alone verbalize your thoughts. Therefore the first thing that you must do, is to *regurgitate* all those thoughts out of your head.
+To NOT be articulate, is to have a mind that races and steps on itself, so much that you can't even think let alone verbalize your thoughts. Therefore the first thing that you must do, is to *regurgitate* all those thoughts out of your head.
 
 This is where **poetry** comes in, especially Bukowski's style of poetry. 
+
+
+> [!tip] The intention
+> Contents
 
 The intention: It doesn't have to be good, it doesn't have to rhyme, it just has to be honest and raw.
 
