@@ -36,15 +36,14 @@ This is where **poetry** comes in, especially Bukowski's style of poetry.
 
 
 > [!tip] The intention
-> Contents
-
-The intention: It doesn't have to be good, it doesn't have to rhyme, it just has to be honest and raw.
+> It doesn't have to be good, it doesn't have to rhyme, it just has to be honest and raw.
 
 In this medium what you're trying to do is to give the voices in your head... well, a voice. The goal of this poetry is to describe something complicated, simply. This lets you speak from the soul, where even the deepest feelings of loss can be described with "pain is the destination, and you are the steps that I take gladly".
 
 Once you're done with poetry, your mind is a bit quieter, and actual decent ideas begin popping into your head, now's the time to write an essay.
 
-The intention: To deliver your point, in your own voice, without conforming to any academical essay standards 
+> [!tip] The intention
+>To deliver your point, in your own voice, without conforming to any academical essay standards 
 
 The goal of this is to learn how to construct arguments, ideas, opinions. How to employ lexical abilities, to stretch your linguistic muscles, and to explore patterns in writing. This builds your style, and also gives you the confidence of speech. Because to write honestly is to speak in your minds voice, just while writing an essay.
 
