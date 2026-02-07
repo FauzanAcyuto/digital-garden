@@ -1,10 +1,10 @@
 ---
 tags:
-- Fleeting
-creationDate: '2026-01-27'
+- Fern
+creationDate: 2026-01-27
 publish: 'true'
 category: 2. Atomic Notes
-date: '2026-01-31'
+date: '2026-02-07'
 ---
 
 Parent: [[My Personal Workflow]]
