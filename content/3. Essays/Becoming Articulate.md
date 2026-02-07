@@ -45,7 +45,7 @@ Once you're done with poetry, your mind is a bit quieter, and finally some actua
 > [!tip] The intention
 >To deliver your point, in your own voice, without conforming to any academical essay standards 
 
-The goal of this is to learn how to construct arguments, ideas, opinions. How to employ lexical abilities, to stretch your linguistic muscles, and to explore patterns in writing. This builds your style, and also gives you the confidence of speech. Because to write honestly is to speak in your minds voice, just while writing an essay.
+The goal of this is to learn how to construct arguments, ideas, opinions. How to employ lexical abilities, to stretch your linguistic muscles, and to explore patterns in writing. This builds your style, and also gives you the confidence of speech. Because to write honestly is to speak in your minds voice, just while writing with your hands.
 
 After all of this is done, you just rinse, and repeat.
 
