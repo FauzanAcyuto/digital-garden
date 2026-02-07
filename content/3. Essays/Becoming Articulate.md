@@ -20,7 +20,7 @@ Jordan Peterson said that to be articulate, you must write. But to me writing ca
 
 To me, the medium is just as important as the activity. And the intention behind that activity greatly affects the impact.
 
-At least for me, two types of writing has delivered the biggest impact to my articulation:
+At least for me, two types of writing deliveres the most impact to my articulation:
 1. Poetry
 2. Essays
 
