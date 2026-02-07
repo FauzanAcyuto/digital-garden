@@ -19,13 +19,13 @@ But let's get to the point, how do I become articulate?
 
 Jordan Peterson said that to be articulate, you must write. But to me writing can mean a great many things, writing notes, writing poetry, writing essays, all present different challenges and benefits.
 
-To me, the medium is just as important as the activity. And the intention behind that activity greatly affects the impact.
+To me, the medium is just as important as the activity. And the intention behind that activity can greatly affect the impact.
 
-At least for me, two types of writing deliveres the most impact to my articulation:
+At least for me, two types of writing delivers the most impact to my articulation:
 1. Poetry
 2. Essays
 
-Now I am a big advocate of the Zettelkasten and the Cornell Notetaking System. But why these two in particular?
+Now I am a big advocate of the Zettelkasten and the Cornell Notetaking System. So why these two in particular?
 
 Let me answer that question with another question, 
 > [!question] How does writing improve articulation?
