@@ -16,7 +16,8 @@ It pays to be articulate, as it proves your competence to the people around you.
 To show yourself as someone who can think clearly, and communicate those thoughts to other people in a way that they --as people with differing perspectives than you-- can understand clearly, is as threatening as a well-honed blade.
 
 But let's get to the point, how do I become articulate?
-Jordan Peterson said that to be articulate, you must write. But to me writing can mean a great many things, writing notes, writing poetry, writing essays, or a plethora of other writing activities.
+
+Jordan Peterson said that to be articulate, you must write. But to me writing can mean a great many things, writing notes, writing poetry, writing essays, all present different challenges and benefits.
 
 To me, the medium is just as important as the activity. And the intention behind that activity greatly affects the impact.
 
