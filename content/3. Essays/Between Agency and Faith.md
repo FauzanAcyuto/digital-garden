@@ -20,9 +20,9 @@ And the most dangerous thing is, depending on how each person acquires their ini
 
 A person who has built their business empire by taking full accountability on the outcome and the millions that is at stake, can feel like shit when they struggle to live up to their family's expectations. But this, is unbearably normal.
 
-Responsibility induces growth through friction, pressure, and force. Just like forging metal, it is the thing that damages you that strengthens. But too much heat, too much pressure, and too much force breaks metal.
+Responsibility induces growth through friction, pressure, and force. Just like forging metal, it is the thing that sufficiently damages you that strengthens. But too much heat, too much pressure, and too much force breaks even the best material. 
 
-And there are two ways to solve this issue, if the issue is physical, technical, or financial, then you outsource the responsibility to other people. But if the issue is spiritual, mental, or emotional, then you outsource the responsibility to a higher power.
+There are two ways to solve this issue, if the issue is physical, technical, or financial, then you outsource the responsibility to other people. But if the issue is spiritual, mental, or emotional, then you outsource the responsibility to a higher power.
 
 In short there nothing that causes successful people to self-destruct more than taking too much responsibility. And for these particular group of people, letting go of control can be a much more difficult task than obtaining it.
 
