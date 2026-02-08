@@ -10,7 +10,9 @@ date: '2026-02-08'
 ***
 When you were born, you had no agency in the world. Your parents determine what you eat, where you shit, and what you were going to be. When you grew up a little, you find out that you can think, you can talk, and you can go where you want to go even if its only cycling distance.
 
-For some people, this trend of control continues to ramp up into adulthood. These are the high-agency folk, the soldiers, the business person, the high achievers. Today we are talking about these people, and how too much agency can end up being the poison that kills empires and families alike.
+For some people, this trend of control continues to ramp up into adulthood. Where the misgivings of the school gets turned into the ability of self-study, 
+
+These are the high-agency folk, the soldiers, the business person, the high achievers. Today we are talking about these people, and how too much agency can end up being the poison that kills empires and families alike.
 
 Initially the continuous acquisition of control can be a good strategy for success. You take on more responsibility, become more competent, acquire trust and therefore power/control. But what these people don't realize is that there is an upper limit to this strategy.
 
