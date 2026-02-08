@@ -14,11 +14,13 @@ For some people, this trend of control continues to ramp up into adulthood. Thes
 
 Initially the continuous acquisition of control can be a good strategy for success. You take on more responsibility, become more competent, acquire trust and therefore power/control. But what these people don't realize is that there is an upper limit to this strategy.
 
-It is possible for someone to take **too much** responsibility. 
+> [!warning] It is possible for someone to take **too much** responsibility. 
 
-And the most dangerous thing is, depending on how each person acquires their initial competence, feeling like this way can instead feel like incompetence. Well, it isn't.
+And the most dangerous thing is, depending on how each person acquires their initial competence, this feeling can instead feel like incompetence. Well, it isn't.
 
 A person who has built their business empire by taking full accountability on the outcome and the millions that is at stake, can feel like shit when they struggle to live up to their family's expectations. But this, is unbearably normal.
+
+Responsibility induces growth through friction, pressure, and
 
 And there are two ways to solve this issue, if the issue is physical, technical, or financial, then you outsource the responsibility to other people. But if the issue is spiritual, mental, or emotional, then you outsource the responsibility to a higher power.
 
