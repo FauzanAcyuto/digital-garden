@@ -16,7 +16,7 @@ These are the high-agency folk, the soldiers, the business person, the high achi
 
 Initially the continuous acquisition of control can be a good strategy for success. You take on more responsibility, become more competent, acquire trust and therefore power/control. But what these people don't realize is that there is an upper limit to this strategy.
 
-> [!warning] It is possible for someone to take **too much** responsibility. 
+> [!warning] It is possible for someone to take on **too much** responsibility. 
 
 And the most dangerous thing is, depending on how each person acquires their initial competence, this feeling can instead feel like incompetence. Well, it isn't.
 
