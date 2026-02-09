@@ -18,6 +18,8 @@ Paragraphs within a chapter, sentences within a paragraph, phrases within a sent
 
 > Finally, it is useful to note that your mind is organized verbally, at the highest and most abstract levels. Thus, if you learn to think, through writing, then you will develop a well-organized, efficient mind – and one that is well-founded and certain.
 > -Jordan Peterson's Essay Writing Guide
+
+[[The rules to writing essays]]
 ### Related:
 
 
