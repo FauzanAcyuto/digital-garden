@@ -16,6 +16,8 @@ The good thing about an essay is that you have a "general" structure which are y
 
 Paragraphs within a chapter, sentences within a paragraph, phrases within a sentence, then word choices within a phrase. All of these *objects* (as in object oriented programming), can be individually edited to design a piece of work that represents a thought that is specifically yours, delivered clearly and hopefully decent.
 
+> Finally, it is useful to note that your mind is organized verbally, at the highest and most abstract levels. Thus, if you learn to think, through writing, then you will develop a well-organized, efficient mind – and one that is well-founded and certain.
+> -Jordan Peterson's Essay Writing Guide
 ### Related:
 
 
