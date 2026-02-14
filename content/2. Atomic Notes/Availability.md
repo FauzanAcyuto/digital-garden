@@ -13,7 +13,6 @@ date: '2026-02-14'
 
 parent: [[Systems Design]]
 ***
-![[Pasted image 20260214203545.png]]
 Availability: The guarantee that the system always runs well, regardless of what happens to the nodes behind the scenes.
 
 ### Availability = system uptime
