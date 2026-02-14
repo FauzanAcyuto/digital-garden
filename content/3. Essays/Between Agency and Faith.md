@@ -4,10 +4,11 @@ tags:
 creationDate: 2026-02-07
 publish: 'True'
 category: 3. Essays
-date: '2026-02-08'
+date: '2026-02-14'
 ---
 
 ***
+![[Pasted image 20260214210518.png]]
 When you were born, you had no agency in the world. Your parents determine what you eat, where you shit, and what you were going to be. When you grew up a little, you find out that you can think, you can talk, and you can go where you want to go even if its only cycling distance.
 
 For some people, this trend of control continues to ramp up into adulthood. Where the misgivings of the school gets turned into the ability of self-study, the incompetence of bosses turned into opportunities to shine, and even the worst of circumstance gets wrestled into a path.
