@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Atkinson Hyperlegible",
-        body: "Atkinson Hyperlegible""Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Atkinson Hyperlegible",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
