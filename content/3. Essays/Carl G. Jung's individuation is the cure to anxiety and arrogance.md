@@ -4,7 +4,7 @@ tags:
 creationDate: 2026-02-14
 publish: 'true'
 category: 3. Essays
-date: '2026-02-14'
+date: '2026-02-15'
 ---
 
 Parent: [[Becoming a good Man]]
@@ -22,7 +22,7 @@ We often think that we are the masters of our will, very rarely maybe never in h
 For example, Steven Pressfield’s “resistance” is the demon of love, the enemy of the artists’ muse, and the advocate of procrastination. The very recent research of the “strength deficit”(I know the lackluster name) which is the discrepancy between the strength of the muscle when contracted involuntarily and voluntarily, and the fact that we can tap into this reserves of strength willingly with our mindset. and only those that have control over this god can do feats of strength and endurance like swimming around Great Britain, the 453kg squat, and the 501kg deadlift.
 
 Amongst these gods lie Carl G. Jung’s “individuation”, the heroes’ journey that we are bound to go through again and again like a cotton candy machine until we become either beautiful cotton candy or nothing.
-![[Pasted image 20260214223504.png]]
+![[Pasted image 20260214223504.png|500]]
 
 The heroes’ journey not only determines our growth as a human being but also our personality and perspectives, but it’s not as obvious as it might seem. Because in movies and novels this journey is a hike across mountains, lakes, deserts, oceans, and even outer space, that’s not easy for us to relate to. But if we were to compress that long arduous journey, into a noticeably short almost indiscernible story that could happen multiple times a week, then we get closer to the real deal.
 
