@@ -7,7 +7,6 @@ category: 3. Essays
 date: '2026-02-15'
 ---
 
-Parent: [[Becoming a good Man]]
 ***
 > _“I will try to explain the term ‘individuation’ as simply as possible. By it I mean the psychological process that makes of a human being an individual, a unique indivisible unit, or ‘whole’ man”-Carl G. Jung_
 
