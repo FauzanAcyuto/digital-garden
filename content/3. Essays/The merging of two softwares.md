@@ -34,7 +34,7 @@ This is the tale of the ideal modern man, focussed, driven, goal-oriented. He br
 
 The weakness of this program is that it is by design self-destructive. It requires unbelievable sacrifice to achieve your goal at all costs, and sometimes this sacrifice is bad enough to summon vices. We see it, successful men fall to depression, addiction, and even suicide. Families are broken by busy fathers, and men are broken by decisions with no right answers.
 
-The Unity
+The Unity - a work in progress
 The unity of these two programmings will define the rest of my life, I belive that if achieved, I will reach a new level of quality, I will become a better man. And the great men I've mentioned all has some combination of both. Williamson has a goal, but that goal is tempered in the wisdom that everything is a process, that the goal serves as a direction and not much more. Once the goal is set, we all come back to the systems. 100% is achieved through 1% a day.
 
 The moderation of these two trains of tought lies in the harmony of their functions. And when neither holds the keys to the vehicle. By this I mean that I as the ego need to modulate between the two trains of tought carefully. I need to modulate these two programs to pick which needs to work and when. This is an idea that I am still exploring, but see an image forming in my mind. With me in the middle, and two entities that symbolize the programs both whispering their secrets to me, to choose which I will listen to that day.
