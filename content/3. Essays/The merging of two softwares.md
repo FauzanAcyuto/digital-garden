@@ -37,7 +37,7 @@ The weakness of this program is that it is by design self-destructive. It requir
 # The Unity - a work in progress
 The unity of these two programmings will define the rest of my life, I belive that if achieved, I will reach a new level of quality, I will become a better man. And the great men I've mentioned all has some combination of both. Williamson has a goal, but that goal is tempered in the wisdom that everything is a process, that the goal serves as a direction and not much more. Once the goal is set, we all come back to the systems. 100% is achieved through 1% a day.
 
-The healthy middle ground I imagine, would be along the lines of the optimizer returning to its position as my default operating system, while the goal-seeker becomes my subsystem. In t
+The healthy middle ground I imagine, would be along the lines of the optimizer returning to its position as my default operating system, while the goal-seeker becomes my subsystem. In this scenario, I will operate daily within the framework of flexible, fluid, and pressureless optimization. And then in some situations where prudence is required, I will activate my goal-seeker, self driving mentality and pursue it. This is of course easier said than done, the goal-seeker will need constan
 
 And I imagine that most days the optimizer will be my counsel, and in some rare occasions, the goal-seeker should emerge.
 
