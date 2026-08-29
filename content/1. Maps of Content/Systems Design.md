@@ -38,7 +38,7 @@ Another thing you need to consider when designing systems is [[Throughput vs Lat
 
 In order to design systems that scale, you need its components to be able to function independently, that is where the philosophy of [[Modularity]] comes in. This is discussed extensively in the [[UNIX Pilosophy]] note.
 
-Compute engines aren't the only that can scale horizontally. [[Database Systems]] also scale by implementing [[Replication]].
+Compute engines aren't the only that can scale horizontally. [[Database Systems]] also scale by implementing [[Replication]] which also unlocks the resillience of [[Fail-over systems]]
 
 It is important to understand that much of system design involves [[Systems Design High Level Tradeoffs|tradeoffs]]. So much so that this fact has a theorem called the [[CAP Theorem]].
 
