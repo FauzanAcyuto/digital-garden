@@ -5,7 +5,7 @@ publish: true
 category: 1. Maps of Content
 aliases: []
 id: Systems Design
-date: '2026-01-17'
+date: '2026-08-29'
 ---
 
 [What is System Design? A Comprehensive Guide to System Architecture and Design Principles - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/what-is-system-design-learn-system-design/)
@@ -28,11 +28,11 @@ These requirements are measured through SLA's (service level agreements).
 4. [[Reliability]] : Guarantee of function quality
 5. [[Availability Patterns]] : Fail-over (level up from availability)
 
-The first component to discuss in system design is [[Scalability]]. It is generally accepted that you should design your systems to be [[Horizontal Scalability|Horizontaly scalable]], as [[Vertical Scalability]] is limited to current technology and it mostly pretains to singular hardware power.
+The first component to discuss in system design is [[Scalability]]. It is generally accepted that you should design your systems to be [[Horizontal Scalability|Horizontaly scalable]], as [[Vertical Scalability]] is limited to technological progress as it mostly pretains to singular hardware power.
 
 Then, after you've split your computing power into multiple machines, how would you get them to work as a unit? That is where [[Load Balancers]] come in!
 
-Load balancers allow you to, well, **balance load** between all of the machines in the system.
+Load balancers allow you to, well, **balance load** between all of the machines in the system in this configurations machines are defined as **nodes**
 
 Another thing you need to consider when designing systems is [[Throughput vs Latency]] (System Speed). Do you optimize for speedy data transfers? or A LOT of data going through at once?
 
