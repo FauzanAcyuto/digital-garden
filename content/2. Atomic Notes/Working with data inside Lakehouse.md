@@ -31,7 +31,7 @@ You use the SQL analytics Endpoint to analyse, validate, as well as open a conne
 Or you can connect an SSMS instance to the lakehouse using the SQL connection string provided through the Onelake overview page of the lakehouse
 
 
-> [!warning] Fabric Notebooks Pricing
+> [!warning] Fabric Spark Notebooks Pricing
 > The spark engine used in fabric notebooks spin up a VM which can drive up costs. If possible just use T-SQL in the data warehouse for transformations.
 
 
