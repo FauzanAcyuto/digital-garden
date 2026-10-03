@@ -47,7 +47,10 @@ You can check whether or not the transformation step is foldable by hovering ove
 - Operations using `Table.Buffer` force evaluation
 - Some text transformations with M-specific functions
 
-*What is Preview-Only step*
+*What is Preview-Only step?*
+
+It is a step that only operates only in the "transform" page of Power Query, this step doesn't get evaluated during production runs.
+At Astra International we worked with tables with hundreds and thousands of rows, pulling 
 
 
 *What is Fast Copy*
