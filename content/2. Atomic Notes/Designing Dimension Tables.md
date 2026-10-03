@@ -19,7 +19,7 @@ A dimensional table has 3 components
 
 
 > [!tip] Why do you need a surrogate key?
-> Though you might be tempted to use the natural key as the primary key, using a surrogate key instead is preferable because: natural keys might be longer than necessary for an index, supports [[Slowly Changing Dimensions level 2| SCD type 2]] tracking where multiple rows can exist for a single dimension item, allows you to consolidate data from multiple sources without conflict.
+> Though you might be tempted to use the natural key as the primary key, using a surrogate key instead is preferable because: natural keys might be longer than necessary for an index, supports [[Slowly Changing Dimensions (SCD's)| SCD type 2]] tracking where multiple rows can exist for a single dimension item, allows you to consolidate data from multiple sources without conflict.
 > **The fabric test answer:** They insulate the data warehouse from source system changes and support historical tracking
 
 

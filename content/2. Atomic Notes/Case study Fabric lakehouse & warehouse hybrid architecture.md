@@ -37,7 +37,7 @@ Voila, you have an architecture that combines data from multiple sources and for
 
 
 > [!tip] Slowly Changing Dimensions
-> [[Slowly Changing Dimensions level 2 | SCD's]] require UPDATE and DELETE statements only available in Warehouse
+> [[Slowly Changing Dimensions (SCD's)| SCD's]] require UPDATE and DELETE statements only available in Warehouse
 
 
 
