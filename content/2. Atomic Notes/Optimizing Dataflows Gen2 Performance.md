@@ -50,7 +50,7 @@ You can check whether or not the transformation step is foldable by hovering ove
 *What is Preview-Only step?*
 
 It is a step that only operates only in the "transform" page of Power Query, this step doesn't get evaluated during production runs.
-At Astra International we worked with tables with hundreds and thousands of rows, pulling 
+At Astra International we worked with tables with hundreds and thousands of rows, pulling all that data into Power Query slows the design process to a crawl. Before this feature was implemented we used Parameters to filter the data in the "source query" before removing that filter when 
 
 
 *What is Fast Copy*
