@@ -13,8 +13,8 @@ Parent: [[Dimensional Modelling]]
 
 A table that contains the contextual information of a fact table in a unique and storage efficient manner. Usually joined to the fact table using natural/business keys.
 A dimensional table has 3 components
-1. Surrogate key: UUID/system generated row specific key that is used as the primary key
-2. Natural key (aka business key): used to join back to the fact table
+1. Surrogate key: index/system generated row specific key that is used as the primary key
+2. Natural key (aka business key): Business readable ID for the dimension (SKU, Store kode, site code etc.)
 3. Dimensions: the categorical data that is used to enrich the fact table
 
 
