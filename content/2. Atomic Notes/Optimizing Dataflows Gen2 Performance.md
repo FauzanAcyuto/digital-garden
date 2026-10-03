@@ -70,7 +70,6 @@ When working with huge datasets add a preview-only step to filter the data into 
 5. **Parameterize for reuse.** Dataflow Gen2 supports two approaches for environment parameterization. **Public parameters** are available in standard Dataflow Gen2 and let you define reusable inputs (such as filter values or destination names) that can be overridden at runtime through a pipeline. **Fabric Variable Libraries** provide centralized, workspace-level configuration values that are referenced directly in the dataflow script. Fabric Variable Libraries require **Dataflow Gen2 with CI/CD**, a variant you enable at creation by selecting the Git integration option. Both approaches reduce configuration drift when promoting solutions across CI/CD environments.
 6. **Monitor refresh performance.** Use the Monitoring Hub in Fabric and the refresh history on the dataflow to track how long your dataflows take to refresh. Look for trends that indicate growing datasets or inefficient transformations. Email alerts notify you when scheduled refreshes fail, so you can respond quickly and fix issues before they impact downstream consumers.
 
-Following these practices helps your dataflows scale as data volumes grow, and keeps your transformed data fresh and available for downstream analytics and AI workloads.
 ### Related:
 
 
