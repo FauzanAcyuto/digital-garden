@@ -3,7 +3,7 @@ tags:
 - Fleeting
 creationDate: 2026-09-26
 publish: 'true'
-category: 2. Atomic Notes
+category: 1. Maps of Content
 date: '2026-10-03'
 ---
 
