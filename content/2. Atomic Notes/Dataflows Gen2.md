@@ -40,6 +40,7 @@ The decision boils down to where the data is coming from, how technical your tea
 3. If the transformation doesn't require complex joins (multi table, specific table filtering, pretransformation with cte's), otherwise use T-SQL
 4. If the transformation doesn't need distributed data processing (algorithms to enrich the data), otherwise use Notebooks.
 
+![[Pasted image 20261003192759.png|700]]
 
 
 ### Related:
