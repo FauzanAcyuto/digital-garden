@@ -22,7 +22,7 @@ For starters Lakehouse supports the following ways to get your data into it:
 *How do you work with/transform the data in Lakehouse?*
 
 You can use the same data transformation tools to do this:
-1. [[Dataflow Gen2]]
+1. [[Dataflows Gen2]]
 2. [[Notebooks]]
 3. [[Data Factory Pipelines]]
 4. Power Query through the SQL Analytics Endpoint page -> Visual Query Editor
