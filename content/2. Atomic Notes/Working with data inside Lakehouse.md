@@ -30,6 +30,11 @@ You can use the same data transformation tools to do this:
 You use the SQL analytics Endpoint to analyse, validate, as well as open a connection to BI Tools using SQL.
 Or you can connect an SSMS instance to the lakehouse using the SQL connection string provided through the Onelake overview page of the lakehouse
 
+
+> [!warning] Fabric Notebooks Pricing
+> The spark engine used in fabric notebooks spin up a VM which can drive up costs. If possible just use T-SQL in the data warehouse for transformations.
+
+
 ![[Pasted image 20260927151754.png|0]]
 
 
