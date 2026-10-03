@@ -41,6 +41,7 @@ Or you can connect an SSMS instance to the lakehouse using the SQL connection st
 
 ### Related:
 [[Using spark in Lakehouse]]
+[[Choosing a data integration strategy in fabric]]
 
 
 ### Resources:
