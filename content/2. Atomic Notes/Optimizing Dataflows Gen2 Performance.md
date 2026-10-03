@@ -59,6 +59,18 @@ When working with huge datasets add a preview-only step to filter the data into 
 
 *What is Fast Copy*
 
+## Power Query Best Practices
+1. **Filter early.** Apply row filters as the first steps in your query. Reducing the number of rows early means every subsequent transformation processes less data.
+2. **Select columns early.** Remove columns you don't need as soon as possible. Fewer columns mean less data to process and transfer.
+3. **Disable unnecessary loads.** If a query only serves as a staging or reference query (for example, a lookup table used in a merge), right-click the query in the Queries pane and deselect **Enable load**. This feature prevents the staging query from loading to the destination, reducing processing time.
+4. **Use staging dataflows.** For complex scenarios, separate extraction from transformation. Create one dataflow that extracts and stages raw data in a lakehouse. Create a second dataflow that reads from the staging lakehouse and applies transformations. This pattern offers several benefits:
+	- The extraction logic is independent and can refresh on its own schedule.
+	- Multiple transformation dataflows can reuse the same staged data.
+	- If a transformation fails, the raw data is still available for reprocessing.
+5. **Parameterize for reuse.** Dataflow Gen2 supports two approaches for environment parameterization. **Public parameters** are available in standard Dataflow Gen2 and let you define reusable inputs (such as filter values or destination names) that can be overridden at runtime through a pipeline. **Fabric Variable Libraries** provide centralized, workspace-level configuration values that are referenced directly in the dataflow script. Fabric Variable Libraries require **Dataflow Gen2 with CI/CD**, a variant you enable at creation by selecting the Git integration option. Both approaches reduce configuration drift when promoting solutions across CI/CD environments.
+6. **Monitor refresh performance.** Use the Monitoring Hub in Fabric and the refresh history on the dataflow to track how long your dataflows take to refresh. Look for trends that indicate growing datasets or inefficient transformations. Email alerts notify you when scheduled refreshes fail, so you can respond quickly and fix issues before they impact downstream consumers.
+
+Following these practices helps your dataflows scale as data volumes grow, and keeps your transformed data fresh and available for downstream analytics and AI workloads.
 ### Related:
 
 
