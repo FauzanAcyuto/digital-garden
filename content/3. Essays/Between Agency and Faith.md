@@ -11,6 +11,8 @@ date: '2026-10-04'
 ![[Pasted image 20260214210518.png]]
 At the begining, you had no agency at all. You were a baby who couldn't decide what to do, what to eat, you couldn't even think. This is where all of us started, as **objects**. Not as sentient creatures who decide, but as a child, unburdened by the decisions that would hound the rest of our lives.
 
+As you grow into childhood you start gaining awareness, your parents teach you how to make small decisions, and you wrestled those decisions from them. You decide what you want to eat, the clothes you want to wear, 
+
 For some people, this trend of control continues to ramp up into adulthood. Where the misgivings of the school gets turned into the ability of self-study, the incompetence of bosses turned into opportunities to shine, and even the worst of circumstance gets wrestled into a path.
 
 These are the high-agency folk, the soldiers, the business person, the high achievers. Today we are talking about these people, and how too much agency can end up being the poison that kills empires and families alike.
