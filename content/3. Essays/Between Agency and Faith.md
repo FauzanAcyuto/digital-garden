@@ -9,7 +9,7 @@ date: '2026-10-04'
 
 ***
 ![[Pasted image 20260214210518.png]]
-At the begining, you had no agency at all. You were a baby who couldn't decide what to do, what to eat, you couldn't even think. This is where all of us started, as **objects**. Not as sentient creatures who decide, but as a child, unburdened by the decisions that would hound the rest of our lives.
+At the begining, you had no agency at all. You were a baby who couldn't decide what to do, what to eat, you couldn't even think. This is where all of us started, as **objects**. Not as sentient creatures who decide, but as a child, unburdened by the decisions that would hound us for the rest of our lives.
 
 As you grow into childhood you start gaining awareness, your parents teach you how to make small decisions, and you wrestled those decisions from them. You decide what you want to eat, the clothes you want to wear, where to walk. You force your surroundings to conform to these decisions to acquire one thing, **to feel important**.
 
@@ -26,6 +26,8 @@ People who has built their identity as someone with high agency suffers the most
 It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. The fact is, responsibility is required for growth, but too much of it can crush you. Human beings need to share that burden with something: Karma, The universe, Buddha, Allah, Jesus, etc. Any higher order of good would be better than to face the weight of these choices alone.
 
 And once the choice is made, you'll suprise yourself at how much more productive you'll become. Because our minds are crowded with distractions, questions, uncertainty, and worry, that once you off-load those thoughts to something else, you can finally focus on the things that matter.
+
+It takes Agency to develop yourself up to a certain point, and then Faith will carry you the rest of the way.
 
 ### Related:
 
