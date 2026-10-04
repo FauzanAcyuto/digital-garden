@@ -19,7 +19,7 @@ This transtition happens to everyone at a certain point in their lives. The age 
 
 And thats where fork between Agency and Faith appears. When you get to the point of singularity for your responsibilities. You need to decide whether to break down, or trust in something outside of yourself. This choice causes a lot of suffering.
 
-That is because for the first half of our lives, agency means discipline, it means network, it means entrepreneurship, it means 
+That is because for the first half of our lives, agency means discipline, it means network, it means entrepreneurship, it means strength, it means freedom. We have been trained on the idea that to take control is the best thing! But forget that the freedom to make a choice carries with it the responsibility of its outcome.
 
 A person who has built their business empire by taking full accountability on the outcome and the millions that is at stake, can feel like shit when they struggle to live up to their family's expectations. But this, is unbearably normal.
 
