@@ -21,13 +21,9 @@ And thats where the fork between Agency and Faith appears. When you get to the p
 
 Because for the first half of our lives, agency means discipline, it means network, it means entrepreneurship, it means strength, it means freedom. We have been trained on the idea that to take control is the best thing! But forget that the freedom to make a choice carries with it the responsibility of its outcome.
 
-People who has built their identity as someone with high agency suffers the most during this stage. They fear that to put faith in something other than themselves makes them weak and uncertain. They might say "I've built this company from nothing, but why can't I fix my relationship with my mother". As if the infinite variables presented to them by life even presuposes that any of it can be controlled by a single person.
+People who has built their identity as someone with high agency suffers the most during this stage. They fear that to put faith in something other than themselves makes them weak and uncertain. They might say "I've built this company from nothing, but why can't I fix my relationship with my mother". As if the infinite variables presented by life even presuposes that any of it can be controlled by a single person.
 
-It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. The fact is, responsibility is required for growth, but too much of it can crush you.
-
-
-
-
+It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. The fact is, responsibility is required for growth, but too much of it can crush you. Human beings need to share that burden with something: Karma, The universe, Buddha, Allah, Jesus
 
 
 
