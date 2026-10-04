@@ -21,7 +21,7 @@ And thats where fork between Agency and Faith appears. When you get to the point
 
 That is because for the first half of our lives, agency means discipline, it means network, it means entrepreneurship, it means strength, it means freedom. We have been trained on the idea that to take control is the best thing! But forget that the freedom to make a choice carries with it the responsibility of its outcome.
 
-People who has built their identity as someone with high agency suffers the most during this stage. They fear that to put faith in something other than themselves makes them weak and uncertain. 
+People who has built their identity as someone with high agency suffers the most during this stage. They fear that to put faith in something other than themselves makes them weak and uncertain. They might say "I've built this company from nothing, but why can't I fix my relationship with my mother". As if the infinite var
 
 
 Responsibility induces growth through friction, pressure, and force. Just like forging metal, it is the thing that sufficiently damages you that strengthens. But too much heat, too much pressure, and too much force breaks even the best material. 
