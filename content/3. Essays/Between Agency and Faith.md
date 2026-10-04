@@ -23,15 +23,9 @@ That is because for the first half of our lives, agency means discipline, it mea
 
 People who has built their identity as someone with high agency suffers the most during this stage. They fear that to put faith in something other than themselves makes them weak and uncertain. They might say "I've built this company from nothing, but why can't I fix my relationship with my mother". As if the infinite variables presented to them by life even presuposes that any of it can be controlled by a single person.
 
-It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. 
+It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. The fact is, responsibility is required for growth, but too much of it can 
 
-Responsibility induces growth through friction, pressure, and force. Just like forging metal, it is the thing that sufficiently damages you that strengthens. But too much heat, too much pressure, and too much force breaks even the best material. 
 
-There are two ways to solve this issue, if the issue is physical, technical, or financial, then you outsource the responsibility to other people. But if the issue is spiritual, mental, or emotional, then you outsource the responsibility to a higher power.
-
-In short there nothing that causes successful people to self-destruct more than taking too much responsibility. And for these particular group of people, letting go of control can be a much more difficult task than obtaining it.
-
-The timing matters a lot, it does pay to be extremely high in accountability and agency initially, but when the time comes when you start to feel like the weight of responsibility is breaking more than its building, then that is your cue to relinquish that control, either to other people, or God.
 
 
 
