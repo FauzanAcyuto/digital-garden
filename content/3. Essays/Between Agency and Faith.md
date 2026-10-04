@@ -23,7 +23,7 @@ That is because for the first half of our lives, agency means discipline, it mea
 
 People who has built their identity as someone with high agency suffers the most during this stage. They fear that to put faith in something other than themselves makes them weak and uncertain. They might say "I've built this company from nothing, but why can't I fix my relationship with my mother". As if the infinite variables presented to them by life even presuposes that any of it can be controlled by a single person.
 
-
+It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. 
 
 Responsibility induces growth through friction, pressure, and force. Just like forging metal, it is the thing that sufficiently damages you that strengthens. But too much heat, too much pressure, and too much force breaks even the best material. 
 
