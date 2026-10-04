@@ -17,7 +17,7 @@ And this continues on to adolesence and teen years. But right around your early 
 
 This transtition happens to everyone at a certain point in their lives. The age of onset varies, and it all depends on how *high-agency* the particular person is. Some reach a breaking point at 25, others keep going until 45. Whats certain is that the breaking point will come. This is not a sign of weakness or incompetence. It is simply a fact that the world has infinite possibilities of outcome that when you place the responsibility for both the choice and the result it carries on your shoulders, you will find a problem that is so big that it can crush you.
 
-And thats where fork between Agency and Faith appears. When you get to the point
+And thats where fork between Agency and Faith appears. When you get to the singularity of responsibility. You need to decide whether to break down, or trust in something outside of yourself.
 
 
 
