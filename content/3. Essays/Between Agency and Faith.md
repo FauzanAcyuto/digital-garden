@@ -17,7 +17,7 @@ This continues on to adolesence and teen years. But right around your early twen
 
 This transtition happens to everyone at a certain point in their lives. The age of onset varies, and it all depends on how *high-agency* the particular person is. Some reach a breaking point at 25, others keep going until 45. Whats certain is that the breaking point will come. This is not a sign of weakness or incompetence. It is simply a fact that the world has infinite possibilities of outcome that when you place the responsibility for both the choice and the result it carries on your shoulders, you will find a problem that is so big that it can crush you.
 
-And thats where the fork between Agency and Faith appears. When you get to the point of singularity for your responsibilities. You need to decide whether to break down, or trust in something outside of yourself. This choice brings a lot 
+And thats where the fork between Agency and Faith appears. When you get to the point of singularity for your responsibilities. You need to decide whether to break down, or trust in something outside of yourself. This choice brings a lot of suffering with it.
 
 Because for the first half of our lives, agency means discipline, it means network, it means entrepreneurship, it means strength, it means freedom. We have been trained on the idea that to take control is the best thing! But forget that the freedom to make a choice carries with it the responsibility of its outcome.
 
