@@ -13,7 +13,7 @@ At the begining, you had no agency at all. You were a baby who couldn't decide w
 
 As you grow into childhood you start gaining awareness, your parents teach you how to make small decisions, and you wrestled those decisions from them. You decide what you want to eat, the clothes you want to wear, where to walk. You force your surroundings to conform to these decisions to acquire one thing, **to feel important**.
 
-And this continues on to adolesence and teen years. But right around your early twenties something starts to feel different. You choices start to resemble something other than freedom. Your decisions start taking longer and your questions start getting harder. This is right around the time when your choices carry real weight. Late night outs turn into sluggish days which turns into work-related mistakes which turns into financial issues. You start to question what it was that made you so driven to be independent.
+This continues on to adolesence and teen years. But right around your early twenties something starts to feel different. You choices start to resemble something other than freedom. Your decisions start taking longer and your questions start getting harder. This is right around the time when your choices carry real weight. Late night outs turn into sluggish days which turns into work-related mistakes which turns into financial issues. You start to question what it was that made you so driven to be independent.
 
 This transtition happens to everyone at a certain point in their lives. The age of onset varies, and it all depends on how *high-agency* the particular person is. Some reach a breaking point at 25, others keep going until 45. Whats certain is that the breaking point will come. This is not a sign of weakness or incompetence. It is simply a fact that the world has infinite possibilities of outcome that when you place the responsibility for both the choice and the result it carries on your shoulders, you will find a problem that is so big that it can crush you.
 
@@ -23,7 +23,7 @@ That is because for the first half of our lives, agency means discipline, it mea
 
 People who has built their identity as someone with high agency suffers the most during this stage. They fear that to put faith in something other than themselves makes them weak and uncertain. They might say "I've built this company from nothing, but why can't I fix my relationship with my mother". As if the infinite variables presented to them by life even presuposes that any of it can be controlled by a single person.
 
-It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. The fact is, responsibility is required for growth, but too much of it can 
+It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. The fact is, responsibility is required for growth, but too much of it can crush you.
 
 
 
