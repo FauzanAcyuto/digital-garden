@@ -9,7 +9,7 @@ date: '2026-10-04'
 
 ***
 ![[Pasted image 20260214210518.png]]
-At the begining, you had no agency at all. You were a baby who couldn't decide what to do, what to eat, you couldn't even think. This is where all of us started, as objects of love,
+At the begining, you had no agency at all. You were a baby who couldn't decide what to do, what to eat, you couldn't even think. This is where all of us started, as **objects**. Not as sentient creatures who decide, but as a child, unburdened by 
 
 When you were born, you had no agency in the world. Your parents determine what you eat, where you shit, and what you were going to be. When you grew up a little, you find out that you can think, you can talk, and you can go where you want to go even if its only cycling distance.
 
