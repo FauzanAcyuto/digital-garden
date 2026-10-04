@@ -15,7 +15,9 @@ As you grow into childhood you start gaining awareness, your parents teach you h
 
 And this continues on to adolesence and teen years. But right around your early twenties something starts to feel different. You choices start to resemble something other than freedom. Your decisions start taking longer and your questions start getting harder. This is right around the time when your choices carry real weight. Late night outs turn into sluggish days which turns into work-related mistakes which turns into financial issues. You start to question what it was that made you so driven to be independent.
 
-This transtition happens to everyone at a certain point in their lives. The age of onset varies, and it all depends on how *high-agency* the particular person is. Some reach a breaking point at 25, others keep going until 45. Whats certain is that the breaking point will come. This is not a sign of weakness or incompetence. It is simply a fact that the world has infinite possibilities of outcome that when you place the responsibility for both the choice and the results
+This transtition happens to everyone at a certain point in their lives. The age of onset varies, and it all depends on how *high-agency* the particular person is. Some reach a breaking point at 25, others keep going until 45. Whats certain is that the breaking point will come. This is not a sign of weakness or incompetence. It is simply a fact that the world has infinite possibilities of outcome that when you place the responsibility for both the choice and the result it carries on your shoulders, you will find a problem that is so big that it can crush you.
+
+And thats where fork between Agency and Faith appears. When you get to the point
 
 
 
