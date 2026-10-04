@@ -13,7 +13,7 @@ At the begining, you had no agency at all. You were a baby who couldn't decide w
 
 As you grow into childhood you start gaining awareness, your parents teach you how to make small decisions, and you wrestled those decisions from them. You decide what you want to eat, the clothes you want to wear, where to walk. You force your surroundings to conform to these decisions to acquire one thing, **to feel important**.
 
-And this continues on to adolesence, 
+And this continues on to adolesence and teen years. But right around your early twenties something starts to feel different. You choices start to resemble something other than freedom. You decisions start taking longer. And your questions start getting harder.
 
 These are the high-agency folk, the soldiers, the business person, the high achievers. Today we are talking about these people, and how too much agency can end up being the poison that kills empires and families alike.
 
