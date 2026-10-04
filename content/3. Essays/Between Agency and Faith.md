@@ -25,7 +25,7 @@ People who has built their identity as someone with high agency suffers the most
 
 It breaks these people to realize that this particular problem requires them to relinquish control, instead of getting more. The fact is, responsibility is required for growth, but too much of it can crush you. Human beings need to share that burden with something: Karma, The universe, Buddha, Allah, Jesus, etc. Any higher order of good would be better than to face the weight of these choices alone.
 
-And once the choice is made, you
+And once the choice is made, you'll suprise yourself at how much more productive you'll become. Because our minds are crowded with distractions, questions, uncertainty, and worry, that once you off-load those thoughts to something else, you can finally focus on the things that matter.
 
 ### Related:
 
